@@ -22,7 +22,7 @@ export const products = [
         OGRN: 1067746062449,
         address: '142181, Московская обл, г.о. Подольск, д Коледино, тер. Индустриальный парк Коледино, д. 6, стр. 1'
       },
-      image: './assets/images/t-shirt.png',
+      image: './images/t-shirt.png',
       isChecked: true,
       deliveryTime: [
         {
@@ -55,7 +55,7 @@ export const products = [
         OGRN: 5167746237148,
         address: '129337, Москва, улица Красная Сосна, 2, корпус 1, стр. 1, помещение 2, офис 34'
       },
-      image: './assets/images/case.png',
+      image: './images/case.png',
       isChecked: true,
       deliveryTime: [
         {
@@ -92,7 +92,7 @@ export const products = [
         OGRN: 1067746062449,
         address: '142181, Московская обл, г.о. Подольск, д Коледино, тер. Индустриальный парк Коледино, д. 6, стр. 1'
       },
-      image: './assets/images/pencils.png',
+      image: './images/pencils.png',
       isChecked: true,
       deliveryTime: [
         {
