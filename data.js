@@ -125,22 +125,22 @@ export const products = [
   export const paymentInfo = [
     {
       name: 'mir',
-      logo: './assets/favicon/mir.svg',
+      logo: './public/favicon/mir.svg',
       number: '1234 56•• •••• 1234'
     },
     {
       name: 'visa',
-      logo: './assets/favicon/visa.svg',
+      logo: './public/favicon/visa.svg',
       number: '1234 56•• •••• 1234'
     },
     {
       name: 'mastercard',
-      logo: './assets/favicon/mastercard.svg',
+      logo: './public/favicon/mastercard.svg',
       number: '1234 56•• •••• 1234'
     },
     {
       name: 'maestro',
-      logo: './assets/favicon/maestro.svg',
+      logo: './public/favicon/maestro.svg',
       number: '1234 56•• •••• 1234'
     }
   ]
